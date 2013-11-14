@@ -14,8 +14,9 @@ More information will follow.
 
 Credits
 =======
-This library incorporates code from Roman Nurik's Swipe-to-Dismiss: https://github.com/romannurik/Android-SwipeToDismiss.
-Additionally, this library uses Jake Wharton's NineOldAndroids to allow backwards compatibility up to API level 4: https://github.com/JakeWharton/NineOldAndroids/.
+Loosely based on [Crouton][1] and [UndoBar][2].
+This library incorporates code from Roman Nurik's [Swipe-to-Dismiss][3].
+Additionally, this library uses Jake Wharton's [NineOldAndroids][4] to allow backwards compatibility up to API level 4 (not tested yet).
 
 
 License
@@ -37,4 +38,7 @@ License
 
 
 
-
+ [1]: https://github.com/keyboardsurfer/Crouton
+ [2]: https://github.com/soarcn/UndoBar
+ [3]: https://github.com/romannurik/Android-SwipeToDismiss
+ [4]: https://github.com/JakeWharton/NineOldAndroids/
