@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/torch_message"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:ellipsize="end"
+          android:lines="1"
+          android:paddingBottom="@dimen/torch_message_padding_vertical"
+          android:paddingLeft="@dimen/torch_message_padding_horizontal"
+          android:paddingRight="@dimen/torch_message_padding_horizontal"
+          android:paddingTop="@dimen/torch_message_padding_vertical"/>

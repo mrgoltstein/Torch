@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BlockButton">
+        <attr name="android:title" />
+        <attr name="android:text" />
+        <attr name="android:src" />
+        <attr name="android:contentDescription" />
+    </declare-styleable>
+
+</resources>

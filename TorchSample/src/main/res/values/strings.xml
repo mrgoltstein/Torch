@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Torch Sample</string>
+    <string name="btn_simple">Show simple message</string>
+    <string name="btn_title">Show message w/title and button</string>
+    <string name="btn_dismiss">Dismiss last message</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
