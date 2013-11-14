@@ -1,7 +1,7 @@
 Torch
 =============
 
-An extendable library for in-layout notifications.
+An extendable library for in-layout notifications. Can show multiple notifications concurrently or consecutively.
 
 More information will follow.
 
@@ -15,9 +15,16 @@ More information will follow.
 Credits
 =======
 Loosely based on [Crouton][1] and [UndoBar][2].
+
 This library incorporates code from Roman Nurik's [Swipe-to-Dismiss][3].
+
 Additionally, this library uses Jake Wharton's [NineOldAndroids][4] to allow backwards compatibility up to API level 4 (not tested yet).
 
+
+Developed By
+============
+
+* Reinier Goltstein - <mrgoltstein@gmail.com>
 
 License
 =======
